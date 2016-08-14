@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 所有的界面的主背景色 -->
+    <color name="background_main">#f1f1f1</color>
+    <!-- 其他的背景色 -->
+    <color name="background_white">#ffffff</color>
+    <color name="background_color">#ffffff</color>
+    <color name="translucence">#77000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_trans_user_guide">#b3000000</color>
+
+    <color name="divider_line">#ffd7d7d7</color>
+
+    <color name="specif_tab_sel_text_color">#ffffff</color>
+    <color name="specif_tab_text_color">#000000</color>
+    <color name="specif_entity_boder_color">#CCCCCC</color>
+
+    <!-- for new UI -->
+    <color name="theme_main_color">#cc3333</color>
+    <color name="them_second_color">#FF6C6C</color>
+    <color name="home_tab_text_color">#88000000</color>
+
+    <color name="text_color_light_gary">#999999</color>
+
+    <color name="text_login_alipay">#7a262626</color>
+
+
+    <color name="activity_login_input_background_color">#f7f7f7</color>
+
+    <color name="self_menu_item_hilite">#77cccccc</color>
+
+    <color name="item_new_products_num_bg">#FC50c8b6</color>
+
+    <color name="line_color">#EEEEEE</color>
+
+    <color name="item_product_detail_info_desc">#383838</color>
+
+    <color name="color_c1">#f1f1f1</color>
+    <color name="color_c2">#eeeeee</color>
+    <color name="color_c3">#dedede</color>
+    <color name="color_c4">#cecece</color>
+    <color name="color_c5">#9b9b9b</color>
+    <color name="color_c6">#646464</color>
+    <color name="color_c7">#383838</color>
+    <color name="color_c8">#ff6c6c</color>
+    <color name="color_c9">#cc3333</color>
+    <color name="color_c10">#e79e99</color>
+    <color name="color_c11">#ffe8e7</color>
+    <color name="color_c12">#ffffff</color>
+    <color name="color_c13">#000000</color>
+    <color name="color_c14">#960000</color>
+    <color name="color_c15">#f8f8f8</color>
+    <color name="color_c16">#c4c4c4</color>
+    <color name="color_c17">#252525</color>
+    <color name="color_c18">#e8e8e8</color>
+    <color name="color_c19">#e11c00</color>
+    <color name="color_c20">#1f1f1f</color>
+    <color name="color_c21">#f28f25</color>
+    <color name="color_c22">#60BC22</color>
+    <color name="color_c23">#5474af</color>
+    <color name="color_c24">#F8F8F8</color>
+    <color name="color_c25">#4c6c6c6c</color>
+
+    <color name="color_bg_product_item">#f8f8f8</color>
+
+    <!-- 图片裁剪-->
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="translucent_background">#9c000000</color>
+    <color name="transparent_color">#00FFFFFF</color>
+
+    <!--圆角进度条-->
+    <color name="round_corner_progress_bar_background_default">#5f5f5f</color>
+    <color name="round_corner_progress_bar_progress_default">#7f7f7f</color>
+    <color name="round_corner_progress_bar_secondary_progress_default">@android:color/transparent
+    </color>
+
+    <!-- 重新定义的UI规范-->
+    <color name="main_bg_color">#e8e8e8</color>
+
+    <!-- 评论页颜色-->
+    <color name="ask_seller_current_user_color">#92C4F3</color>
+
+
+    <!-- FloatingActionButton-->
+    <color name="default_fab_normal">#ff0099cc</color><!-- android.R.color.holo_blue_dark -->
+    <color name="default_fab_pressed">#ff33b5e5</color><!-- android.R.color.holo_blue_light -->
+    <color name="default_fab_disabled">#aaa</color><!-- android.R.color.darker_gray -->
+
+    <!--大首页-->
+    <color name="color_home_live_mask">#e11334</color>
+
+    <color name="interest_choiced_backgroud">#60383838</color>
+
+</resources>
